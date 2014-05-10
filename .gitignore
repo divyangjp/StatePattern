@@ -1,0 +1,31 @@
+#Git Ignore rules
+#Divyang Patel
+
+## General C++ ignore rules ##
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+## Project specific ignore rules ##
+Makefile.div
+*.cbp
+*.depend
